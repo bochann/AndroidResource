@@ -1,0 +1,11 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375501892296 377 5acbe707209f7ef5a09b99bdeb1b14ccadeeba3e C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\menu\image.xml
+1375501892234 1220 2abd942858238040c9d08aa045c3774d96c801d5 C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\values\values.xml
+1375501892281 285 b2477f4ac2e05dcc8c3dded3d3f382a1a3793bd0 C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\values-sw720dp-land\values.xml
+1375501894609 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1375501892296 792 9f87e2b13b03a2215658f946a22e60175fb839e5 C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\layout\image_layout.xml
+1375501894796 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1375501894453 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1375501893125 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c C:\Documents and Settings\Administrator\AndroidStudioProjects\ImageProject\Image\build\res\all\debug\drawable-xhdpi\ic_launcher.png

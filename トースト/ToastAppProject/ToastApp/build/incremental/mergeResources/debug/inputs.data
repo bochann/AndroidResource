@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375498850281 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\drawable-xxhdpi\ic_launcher.png
+1375499576281 825 302bd86ba6bfd588e04f93b846db38fce71a499c C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\layout\toast_layout.xml
+1375498853015 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\menu\toast.xml
+1375498852250 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\values\styles.xml
+1375498849281 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\drawable-hdpi\ic_launcher.png
+1375498849281 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\drawable-xhdpi\ic_launcher.png
+1375498853046 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\values\dimens.xml
+1375498853046 225 f78287ef99ab1c2057a9ccdad395d7717c8a6bc8 C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\values\strings.xml
+1375498849281 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\drawable-mdpi\ic_launcher.png
+1375498853062 254 25b6404e44acb50c82590049639d4fb5fefbac8e C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\values-sw720dp-land\dimens.xml
+1375498853046 181 84de2797380184d8b39af6f829afb092fb956173 C:\Documents and Settings\Administrator\AndroidStudioProjects\ToastAppProject\ToastApp\src\main\res\values-sw600dp\dimens.xml
