@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375552749000 331 31013789ceb28308d94df0db9facb0cd70e8a02e /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/BuildConfig.class
+1375552749000 366 bafccb3cceb2d106d99981cc2f20d5f3cdcc135c /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$menu.class
+1375552749000 607 b3c113aeb965639cb105042e2f0223a5bf3fe964 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R.class
+1375552749000 410 7e64f7ae53ada9db43a37b7a1a8bb4e1d96e504c /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$style.class
+1375552749000 379 d834464267b4e96c9f7b831b0fabaabb558d5b40 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$layout.class
+1375552749000 372 9b865beffd0632e021bc835940b9acd1396b250b /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$id.class
+1375552749000 440 c2980786d2f8fb59b3a2ab87ce3e4e4fbb1eb1a8 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$dimen.class
+1375552749000 319 224a6341e47488f892191a98323b32ccb9405ed1 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$attr.class
+1375553185000 800 168cc0c39fdd4905a087a73d50f4e99027b918e5 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/LogActivity.class
+1375552749000 451 a3d4b9cfbd25817a7ea21a2acb39493d1813741a /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$string.class
+1375552749000 386 829ca1601cbb4d4eba05523cd6759e0a63b8838e /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/classes/debug/example/log/R$drawable.class

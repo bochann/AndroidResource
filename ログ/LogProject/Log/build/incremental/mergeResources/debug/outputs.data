@@ -1,0 +1,11 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375552745000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1375552743000 346 305a5ec6d54285c3363498c36237075ac901649f /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/menu/log.xml
+1375552743000 250 7ab4896a0fe581a449eaaf6a95fdc48be0bcd2a5 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/values-sw720dp-land/values.xml
+1375552743000 1110 ee610b8d663890903fdef292ab9d03c58310b959 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/values/values.xml
+1375552745000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1375552743000 759 61eb0be86902a2c11ff9f304ed4cf0c7de84eae5 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/layout/log_layout.xml
+1375552745000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1375552745000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/yoshidayuuki/AndroidStudioProjects/LogProject/Log/build/res/all/debug/drawable-mdpi/ic_launcher.png
