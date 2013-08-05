@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375690712000 378 68194508a85ea3c8627593ebc3bd986269485fbe /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$menu.class
+1375690712000 647 9d9af40cd4d7d6100de22bded6bd8665801e79c6 /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R.class
+1375690712000 422 c3cc59d12f5e24e3c7acdd7b04f6dba8514eea69 /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$style.class
+1375690712000 391 604bb6ce7f110e6a776e80118f5765036df8309f /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$layout.class
+1375595728000 452 6db185ec94cf5c20cd712df7750804852fb9698c /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$dimen.class
+1375553880000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375595728000 331 70ddb1d230831e9a21022503da693b37ab38d8db /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$attr.class
+1375690712000 463 cbb4c68210b9d35d2d081768ba77f2d923b5ddc2 /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$string.class
+1375690712000 414 74a6adc3b48e96ce38fa86beef47b1cae008aace /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$id.class
+1375595728000 339 303d318a165baf5e873a3e0c9eefb2468af25a8c /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/BuildConfig.class
+1375595728000 398 a0b97e58afa6015283fefaaa984951fccd3b5d83 /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/R$drawable.class
+1375690712000 1746 7ed633e6a593f30f15bfc25127119aecc7ab0863 /Users/yoshidayuuki/AndroidStudioProjects/NetworkProject/Network/build/classes/debug/example/network/NetActivity.class
