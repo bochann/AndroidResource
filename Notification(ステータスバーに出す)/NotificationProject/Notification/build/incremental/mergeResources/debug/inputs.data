@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375669486000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/values/styles.xml
+1375669487000 222 642ca30c7f0bbe796833422688396f21a53af408 /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/values/strings.xml
+1375669486000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/drawable-hdpi/ic_launcher.png
+1375669487000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/drawable-xxhdpi/ic_launcher.png
+1375669487000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/values-sw720dp-land/dimens.xml
+1375669487000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/menu/notification.xml
+1375669762000 508 ed69c05ff4a977387a4e1b82a53196f4f0666ce3 /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/layout/notification_layout.xml
+1375669486000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/drawable-mdpi/ic_launcher.png
+1375669487000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/values-sw600dp/dimens.xml
+1375669486000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/drawable-xhdpi/ic_launcher.png
+1375669487000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/yoshidayuuki/AndroidStudioProjects/NotificationProject/Notification/src/main/res/values/dimens.xml
