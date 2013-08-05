@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375675243000 408 88197d736e4d6c6bf7c72de3607dc721785a0bb3 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$id.class
+1375675243000 476 130d71ee154d5f4c92adb27ecc089a8679583a5a /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$dimen.class
+1375675243000 355 cb7386be6b0224fdf5a4f00eebd6c6cc53e94ee2 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$attr.class
+1375692748000 3212 be640d758afe46317bf82befe20c87ce25fc4122 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/JsonActivity.class
+1375675243000 355 08e2c57bd1dc4262cfa3957dd6196b6aba7a6d4f /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/BuildConfig.class
+1375553880000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375675243000 416 9bca69f0c3595c5076194d43667992be5282ca68 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$layout.class
+1375675243000 422 3f0b5c7f234aa7088400f653c365203cbbd6fe34 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$drawable.class
+1375675243000 403 5da3458337db204a62a0b0bc3ad6d0673d2474b6 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$menu.class
+1375675243000 487 79c2ce3dbc70038b12056c3eefc90a97544f1108 /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$string.class
+1375675243000 446 981238d6b68fade2fda743430f04a2c6212941af /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R$style.class
+1375675243000 727 42e8c53bd56c6f6b1baa841a899143686484c25f /Users/yoshidayuuki/AndroidStudioProjects/JsonApplicationProject/JsonApplication/build/classes/debug/example/jsonapplication/R.class
