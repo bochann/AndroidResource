@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThreeStaes/ThreeStaes.iml" filepath="$PROJECT_DIR$/ThreeStaes/ThreeStaes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreeStaesProject.iml" filepath="$PROJECT_DIR$/ThreeStaesProject.iml" />
+    </modules>
+  </component>
+</project>
+

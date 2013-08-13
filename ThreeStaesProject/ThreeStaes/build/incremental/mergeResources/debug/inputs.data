@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375895340000 510 5b9e4a2d3ffde0ee7419ee1cdf1d621b5e075c9f /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/values/strings.xml
+1375866252000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/values/styles.xml
+1375895489000 1830 bbfa9a23a26db9f83cae4225ad22ee9d8444af0d /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/layout/activity_tewwt.xml
+1375979634000 276 a8c32eb9e696c4e873e4c319b57bdfd12f2eecda /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/layout/activity_oauth.xml
+1375866251000 3669 b5c047236d0c4a81dee7b1a7a1dbd1317ef96d8c /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/drawable-xxhdpi/ic_launcher.png
+1375866252000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/values/dimens.xml
+1375866251000 1079 9a60bb679a62149b392b51285cc65e7b44dbee53 /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/drawable-mdpi/ic_launcher.png
+1375866252000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/values-sw720dp-land/dimens.xml
+1375866252000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/values-sw600dp/dimens.xml
+1375866251000 1709 46349111a5805d45b866e7e785da6bea0373ea17 /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/drawable-hdpi/ic_launcher.png
+1375866251000 2300 3aef99fc7a8e7cad5ab384adf43706e3f822f647 /Users/yoshidayuuki/AndroidStudioProjects/ThreeStaesProject/ThreeStaes/src/main/res/drawable-xhdpi/ic_launcher.png
